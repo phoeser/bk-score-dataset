@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "BK-Score dataset: evidence ratings for 520 supplements, peptides and biohacking practices"
+version: 1.0.0
+date-released: 2026-11-08
+license: CC-BY-4.0
+url: "https://biohackingkompakt.de"
+repository-code: "https://github.com/phoeser/bk-score-dataset"
+authors:
+  - family-names: "Höser"
+    given-names: "Paul"
+    affiliation: "Biohacking Kompakt"
+keywords:
+  - biohacking
+  - dietary supplements
+  - peptides
+  - longevity
+  - evidence rating
+  - hype
