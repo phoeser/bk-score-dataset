@@ -45,9 +45,7 @@ Subjective assessment by Biohacking Kompakt based on published rating rules. Not
 
 ## Citation
 
-Höser, P. (2026). *BK-Score dataset: evidence ratings for 520 supplements, peptides and biohacking practices* (Version 1.0.0) [Data set]. Biohacking Kompakt. https://biohackingkompakt.de
-
-The DOI is added here once the Zenodo record exists.
+Höser, P. (2026). *BK-Score dataset: evidence ratings for 520 supplements, peptides and biohacking practices* (Version 1.0.0) [Data set]. Biohacking Kompakt. https://github.com/phoeser/bk-score-dataset
 
 ## Licence
 
